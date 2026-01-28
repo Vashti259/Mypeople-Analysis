@@ -1,4 +1,4 @@
-# Mypeople Analysis
+# My People Analysis
 
  Explanation
  ## Humanity
